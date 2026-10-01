@@ -1,0 +1,6 @@
+# This file is the profile layer the bundle contributes.
+# It is a YAML array of Loader patch entries, exactly like a --patch overlay,
+# except the row references the installed package by name instead of a path.
+- insert:
+    - id: hello-bundle
+      name: dsh-hello-bundle

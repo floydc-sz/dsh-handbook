@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Hello Bundle",
+    "description": "Minimal bundle: logs a line on load and unload."
+  }
+}

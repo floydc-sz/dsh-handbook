@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-badge-bundle
+      name: '@local/dsh-badge-bundle'

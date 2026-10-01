@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "示例插件（Hello Bundle）",
+    "description": "最小可安装的组合包：加载与卸载时在宿主日志里各打印一行。"
+  }
+}
